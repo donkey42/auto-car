@@ -12,7 +12,7 @@ Update:
 i should have included everything
 as i'm a linux user this project will be unix/linux based and will have no licence so no licence restrictions
 
-as a linux user as we know how most stuff works, each "donkey auto-car" can be customized according to CLI flags and will probably involve using a doner vehicle
+as a linux user as we know how most stuff works, each "donkey auto-car" can be customized according by CLI flags and will probably involve using a doner vehicle
 
 this donor vehicle can be anything from a car to a bus, whatever you like
 
